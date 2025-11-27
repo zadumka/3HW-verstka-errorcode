@@ -112,7 +112,7 @@ img {
 /*#region Header*/
 
 .header-container {
-  display: flex;
+  display: block;
   align-items: center;
   border-bottom: 1px solid #e7e9fc;
 }
